@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TimJones216
 - 👀 I’m interested in ... Cybersecurity
-- 🌱 I’m currently learning ... Informaation Technology
+- 🌱 I’m currently learning ... Information Technology
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
